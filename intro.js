@@ -1,6 +1,6 @@
 const userinfo = {
    name : "Prince Junior Asare",
-   age : 30,
+   age : 26,
    favProgLang : "JavaScript"
 
 
